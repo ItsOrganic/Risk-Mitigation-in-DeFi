@@ -1,6 +1,7 @@
 # Risk-Mitigation-in-DeFi
-Innovative Approach to Risk Mitigation in Decentralized Finance: Perpetually Collateralized Tokens with Adjustable Leverage
-Abstract:
+<h3> Innovative Approach to Risk Mitigation in Decentralized Finance: Perpetually Collateralized Tokens with Adjustable Leverage </h3>
+
+#Abstract:
 This research proposes the creation of Perpetually Collateralized Tokens (PCTs) featuring an adjustable leverage mechanism, aimed at revolutionizing risk management in decentralized finance (DeFi). By allowing users to customize their leverage within a controlled range of 1x to 5x, the PCTs aim to strike a balance between risk and reward, offering a safer entry point for users engaging in leveraged trading.
 
 #Introduction:
